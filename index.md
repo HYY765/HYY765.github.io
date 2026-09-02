@@ -6,3 +6,8 @@ I am a senior student in the Physics Department of UIUC。My current research in
 
 
 [click here for my PDF CV](./CV.pdf)
+
+
+Some notes:
+Sometimes when I have some ideas, I will study it and write notes and I will not forget them. The notes below may cultivated by I want to describe something in another way as the textbook did, or some experiences I met when applying knowledge and trying to formalize it.
+[click here for my PDF CV](./.pdf)
