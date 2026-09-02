@@ -20,4 +20,4 @@ Sometimes when I have some ideas, I will study it and write notes and I will not
 [All Roads Lead to the Same Summit (when learning Statistical Mechanics)](<./All Roads Lead to the Same Summit.pdf>)
 
 The poster for my decomposition of angular momentum mentioned in CV:
-<
+[click here for pdf](<./Scientific Poster AMdecomposition.pdf>)
