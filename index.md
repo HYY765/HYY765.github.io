@@ -15,4 +15,4 @@ Sometimes when I have some ideas, I will study it and write notes and I will not
 
 [Notes on Derivation of Wave Function Forms for Identical Particles from Particle Identity Uncertainty (when learning Griffiths' QM)](./全同粒子双粒子体系总波函数推导.pdf)
 
-[Operator Mapping and Homomorphism, Operation Laws (when learning Griffiths' QM)](./OperatorMappingandHomomorphism,OperationLaws.pdf)
+[Operator Mapping and Homomorphism, Operation Laws (when learning Griffiths' QM)](<./Operator Mapping and Homomorphism, Operation Laws.pdf>)
