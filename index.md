@@ -13,4 +13,4 @@ Sometimes when I have some ideas, I will study it and write notes and I will not
 
 [Classical Analysis of the 'Distortion' Phenomenon in Retard Potentials](./https://github.com/HYY765/HYY765.github.io/blob/main/经典推迟场论-2.pdf)
 
-[Notes on Derivation of Wave Function Forms for Identical Particles from Particle Identity Uncertainty (when learning Griffiths' QM)](./https://github.com/HYY765/HYY765.github.io/blob/main/经典推迟场论-2.pdf)
+[Notes on Derivation of Wave Function Forms for Identical Particles from Particle Identity Uncertainty (when learning Griffiths' QM)](./全同粒子双粒子体系总波函数推导.pdf)
