@@ -1,5 +1,5 @@
-# Welcome to my academic page！
-
+# Welcome to my academic homepage！
+My name is Alvin Yang.
 I am a senior student in the Physics Department of UIUC。My current research interest is Theoretical High Energy Physics. Quantum Field theory and Quantum Gravity.
 ## Education
 - **UIUC Bachlor of Science** (expected 2027)
