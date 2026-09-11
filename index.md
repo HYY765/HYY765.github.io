@@ -27,6 +27,7 @@ A collection of paper reviews of interesting papers, under an ***independent, cr
 The former parts of each review are before reading the whole paper, the latter parts are after skimming the rest of the paper. All papers here are not read like a textbook (working through every equation). Basically the structure is:
 * **Former parts (Pre-Reading)**: *Main Claim*; *Motivation*; *Guess how the result was obtained*; 
 * **Latter parts (Post-Skimming)**: *Compare with actual paper*; *Regime of validity*; *What to do next*; *One sentence summary*.
+
 [Paper Review: Electricity and Gravitation--H.Weyl](Paper_Review__Electricity_and_Gravitation___H__Weyl.pdf)
 
 
