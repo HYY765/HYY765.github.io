@@ -8,7 +8,7 @@ I am a senior student in the Physics Department of UIUC. My current research int
 [click here for my PDF CV](./CV.pdf)
 
 
-# Some notes:
+## Some notes:
 Sometimes when I have some ideas, I will study it and write notes and I will not forget them. The notes below may cultivated by I want to reinterpret something in the textbook, or some experiences I met when applying knowledge and trying to formalize it.
 
 [Classical Analysis of the 'Distortion' Phenomenon in Retard Potentials (when learning Griffiths's E&M)](./经典推迟场论-2.pdf)
@@ -22,7 +22,7 @@ Sometimes when I have some ideas, I will study it and write notes and I will not
 The poster for my decomposition of angular momentum mentioned in CV:
 [click here for pdf](<./Scientific Poster AMdecomposition.pdf>)
 
-# **Paper Reviews**:
+## Paper Reviews:
 A collection of paper reviews of interesting papers, under an **independent, critical, and admiring perspective**. In my opinion, understanding requires deep dive into conceptual and historical origins. Out of reverence for nature and deep admiration for these great physicists, I want to follow the paths of those pioneering discoverers, as examples to strengthen my own research abilities, so that **my train of thought is not only how I learned it, but how I would discover it**. Besides, by this I can train my academic reading ability and systematically record my knowledge. 
 The former parts of each review are before reading the whole paper, the latter parts are after skimming the rest of the paper. All papers here are not read like a textbook (working through every equation). Basically the structure is:
 * **Former parts (Pre-Reading)**: *Main Claim*; *Motivation*; *Guess how the result was obtained*; 
