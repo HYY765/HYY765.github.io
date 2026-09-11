@@ -22,8 +22,11 @@ Sometimes when I have some ideas, I will study it and write notes and I will not
 The poster for my decomposition of angular momentum mentioned in CV:
 [click here for pdf](<./Scientific Poster AMdecomposition.pdf>)
 
-
-
+A collection of paper reviews of interesting papers, under an **independent, critical, and admiring perspective**. In my opinion, understanding requires deep dive into conceptual and historical origins. Out of reverence for nature and deep admiration for these great physicists, I want to follow the paths of those pioneering discoverers, as examples to strengthen my own research abilities, so that **my train of thought is not only how I learned it, but how I would discover it**. Besides, by this I can train my academic reading ability and systematically record my knowledge. 
+The former parts of each review are before reading the whole paper, the latter parts are after skimming the rest of the paper. All papers here are not read like a textbook (working through every equation). Basically the structure is:
+* **Former parts (Pre-Reading)**: *Main Claim*; *Motivation*; *Guess how the result was obtained*; 
+* **Latter parts (Post-Skimming)**: *Compare with actual paper*; *Regime of validity*; *What to do next*; *One sentence summary*.
+[Paper Review: Electricity and Gravitation--H.Weyl](Paper_Review__Electricity_and_Gravitation___H__Weyl.pdf)
 
 
 
