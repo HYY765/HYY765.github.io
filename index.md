@@ -7,7 +7,8 @@ I am a senior student in the Physics Department of UIUC. My current research int
 
 [Click here for my PDF CV](./CV.pdf)
 
-
+##Reading Project on Holography
+[The_very_first_glance_on_RT__FLM__and_EW.pdf](<./The_very_first_glance_on_RT__FLM__and_EW.pdf>)
 ## Some notes:
 Sometimes when I have some ideas, I will study it and write notes and I will not forget them. The notes below may cultivated by I want to reinterpret something in the textbook, or some experiences I met when applying knowledge and trying to formalize it.
 
