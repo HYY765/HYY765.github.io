@@ -35,7 +35,7 @@ The former parts of each review are before reading the whole paper, the latter p
 
 [Paper Review: Maximin Surfaces and the Strong Subadditivity of the Covariant Holographic Entanglement Entropy--A. Wall](Paper_Review__Maximin_Surfaces__and_the_Strong_Subadditivity_of_the_Covariant_Holographic_Entanglement_Entropy___A__Wall.pdf)
 
-
+[Paper Review: Strings from Almost Nothing--C. Cheung et.al](Paper_Review__Strings_from_Almost_Nothing_C__Cheung_et_al.pdf)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NE4JZL2Y90"></script>
