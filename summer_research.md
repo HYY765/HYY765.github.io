@@ -2,7 +2,7 @@
 title: Summer Research--Dark Matter Phenomenology
 ---
 
-[Research Notes 1](pdfs/week1-literature.pdf)
+[Research Notes 1](Research_Notes_1.pdf)
 
 [Research Notes 2](research_note_2.pdf)
 
