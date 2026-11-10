@@ -21,6 +21,7 @@
 [Final Report](<./26_Summer_Research_Final_Report.pdf>)
 
 
-Acknowledgement: Thank Tanner for his advisory.
+Acknowledgement: Thank Tanner for his advice and discussion.
+
 ---
 [← Back](./)
