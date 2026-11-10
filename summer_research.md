@@ -18,6 +18,7 @@ title: Summer Research--Dark Matter Phenomenology
 
 [Research Notes 7](<./research_note_7.pdf>)
 
-[Final Report]
+[Final Report](<./26_Summer_Research_Final_Report.pdf>)
+
 ---
 [← Back](./)
