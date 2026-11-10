@@ -8,7 +8,7 @@ I am a senior student in the Physics Department of UIUC. My current research int
 [Click here for my PDF CV](<./CV_2026.11.9.pdf>)
 
 ## Summer Research on Dark Matter Phenomenology
-* **[Research Notes](summer-research)**
+* **[Research Notes](summer_research.md)**
 
 ## Reading Project on Holography:
 [The very first glance on RT, FLM, and EW.pdf](<./The_very_first_glance_on_RT__FLM__and_EW.pdf>)
