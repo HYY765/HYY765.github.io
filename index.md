@@ -5,7 +5,7 @@ I am a senior student in the Physics Department of UIUC. My current research int
 - **UIUC Bachlor of Science** (expected 2027)
 
 
-[Click here for my PDF CV](./CV_2026.11.9.pdf)
+[Click here for my PDF CV](<./CV_2026.11.9.pdf>)
 
 
 ## Reading Project on Holography:
