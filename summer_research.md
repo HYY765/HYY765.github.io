@@ -1,5 +1,5 @@
 ---
-title: Summer Research--Dark Matter Phenomenology
+## Summer Research--Dark Matter Phenomenology
 ---
 
 [Research Notes 1](Research_Notes_1.pdf)
