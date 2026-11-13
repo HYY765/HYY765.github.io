@@ -35,11 +35,11 @@ The former parts of each review are before reading the whole paper, the latter p
 
 [Paper Review: Electricity and Gravitation--H.Weyl](Paper_Review__Electricity_and_Gravitation___H__Weyl.pdf)
 
-[Paper Review: Maximin Surfaces and the Strong Subadditivity of the Covariant Holographic Entanglement Entropy--A. Wall](Paper_Review__Maximin_Surfaces__and_the_Strong_Subadditivity_of_the_Covariant_Holographic_Entanglement_Entropy___A__Wall.pdf)
+[Paper Review: Maximin Surfaces and the Strong Subadditivity of the Covariant Holographic Entanglement Entropy--A.Wall](Paper_Review__Maximin_Surfaces__and_the_Strong_Subadditivity_of_the_Covariant_Holographic_Entanglement_Entropy___A__Wall.pdf)
 
-[Paper Review: Strings from Almost Nothing--C. Cheung et.al](Paper_Review__Strings_from_Almost_Nothing_C__Cheung_et_al.pdf)
+[Paper Review: Strings from Almost Nothing--C.Cheung et.al](Paper_Review__Strings_from_Almost_Nothing_C__Cheung_et_al.pdf)
 
-[Paper Review: ]
+[Paper Review: Black Holes Decohere Quantum Superposition--D.Danielson,G.Satishchandran &_R.Wald](Paper_Review__Paper_Review__Black_Holes_Decohere_Quantum_Superpositions_____D__Danielson__G__Satishchandran__and_R__Wald.pdf)
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NE4JZL2Y90"></script>
 <script>
